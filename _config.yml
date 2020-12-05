@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DeepRunner" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "DeepRunner"
 description              : &description "personal description"
 url                      : https://deeprunner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
