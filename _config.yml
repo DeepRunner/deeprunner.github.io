@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DeepRunner" #"Your Name / Site Title"
+title                    : "DeepRunner's Homepage" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "DeepRunner"
 description              : &description "personal description"
