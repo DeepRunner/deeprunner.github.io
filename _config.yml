@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "DeepRunner"
-  avatar           : "my_profile.png"
+  avatar           : "profile.png"
   bio              : "Hi, I am DeepRunner. I am testing the homepage."
   location         : "Location"
   employer         :
