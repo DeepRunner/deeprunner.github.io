@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "DeepRunner"
   avatar           : "my_profile.jpg"
-  bio              : "Hi, I am DeepRunner. Here is a test for homepage"
+  bio              : "Hi, I am DeepRunner. I am testing the homepage."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "DeepRunner"
   google_plus      :
   keybase          :
   instagram        :
